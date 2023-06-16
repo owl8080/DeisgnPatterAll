@@ -3,8 +3,9 @@ package com.owl.factory;
 //import com.owl.factory.a_schemes01.controller.DeliverController;
 //import com.owl.factory.a_schemes01.entity.AwardInfo;
 import com.owl.factory.a_schemes01.service.SmailGiftService;
-import com.owl.factory.b_simple_factory.controller.DeliverController;
+//import com.owl.factory.b_simple_factory.controller.DeliverController;
 import com.owl.factory.b_simple_factory.entiy.AwardInfo;
+import com.owl.factory.c_factory.controller.DeliverController;
 import org.junit.jupiter.api.Test;
 
 import java.util.HashMap;
